@@ -39,22 +39,16 @@
 
 [저희 주먹구구의 팀원들의 깃허브 계정입니다.]
 
-- [**유예진** / 주먹구구 / 팀장 / <[8_jin](https://github.com/dbdPwls)> / e-mail <[dbddpwls@naver.com](mailto:dbddpwls@naver.com)>]
-- [**김재형** / 주먹구구 / 기획 / <[21divcert](https://github.com/21divcert)> e-mail<zsx2000@naver.com> ]
-- [**강민정** / 주먹구구 / 디자인 / <[minjeong0917](https://github.com/dbdPwls)>/ e-mail <[rkddkwl3414@naver.com](mailto:rkddkwl3414@naver.com)> ]
-- [**남기윤** / 주먹구구 / 프론트엔드 / <[nam-kiyun](https://github.com/nam-kiyun)> / e-mail <fordnam1@gmail.com> ]
+- [**유예진** / 주먹구구 / 팀장 / <[8_jin](https://github.com/dbdPwls)> / e-mail dbddpwls@naver.com]
+- [**김재형** / 주먹구구 / 기획 / <[21divcert](https://github.com/21divcert)> e-mail zsx2000@naver.com]
+- [**강민정** / 주먹구구 / 디자인 / <[minjeong0917](https://github.com/dbdPwls)>/ e-mail rkddkwl3414@naver.com]
+- [**남기윤** / 주먹구구 / 프론트엔드 / <[nam-kiyun](https://github.com/nam-kiyun)> / e-mail fordnam1@gmail.com]
 
 ---
 
 ## 어쩌다 제주 Prototype UI/UX
 
-![Untitled](%5B%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A5%E1%84%83%E1%85%A1%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%AE%5D%20made%20by%20%E1%84%8C%E1%85%AE%E1%84%86%E1%85%A5%E1%86%A8%E1%84%80%E1%85%AE%E1%84%80%E1%85%AE%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%89%E1%85%A6%E1%84%89%E1%85%B3%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%201bd994145f1949ddb982f4592a67eac7/Untitled.png)
-
-![Untitled](%5B%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A5%E1%84%83%E1%85%A1%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%AE%5D%20made%20by%20%E1%84%8C%E1%85%AE%E1%84%86%E1%85%A5%E1%86%A8%E1%84%80%E1%85%AE%E1%84%80%E1%85%AE%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%89%E1%85%A6%E1%84%89%E1%85%B3%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%201bd994145f1949ddb982f4592a67eac7/Untitled.jpeg)
-
-![Untitled](%5B%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A5%E1%84%83%E1%85%A1%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%AE%5D%20made%20by%20%E1%84%8C%E1%85%AE%E1%84%86%E1%85%A5%E1%86%A8%E1%84%80%E1%85%AE%E1%84%80%E1%85%AE%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%89%E1%85%A6%E1%84%89%E1%85%B3%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%201bd994145f1949ddb982f4592a67eac7/Untitled%201.jpeg)
-
-![Untitled](%5B%E1%84%8B%E1%85%A5%E1%84%8D%E1%85%A5%E1%84%83%E1%85%A1%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%AE%5D%20made%20by%20%E1%84%8C%E1%85%AE%E1%84%86%E1%85%A5%E1%86%A8%E1%84%80%E1%85%AE%E1%84%80%E1%85%AE%E1%84%89%E1%85%B5%E1%86%A8%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%89%E1%85%A6%E1%84%89%E1%85%B3%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%201bd994145f1949ddb982f4592a67eac7/Untitled%201.png)
+[https://www.figma.com/file/ntXPaQTimSvZSVuZeSf7b4/OSS?type=design&node-id=12-4&t=3rd60rX8M1RsgNkZ-0](https://www.figma.com/file/ntXPaQTimSvZSVuZeSf7b4/OSS?type=design&node-id=12-4&t=3rd60rX8M1RsgNkZ-0)
 
 ---
 
