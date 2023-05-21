@@ -16,9 +16,9 @@
     <link rel="icon" href="favicon.ico">
 
     <!--Title-->
-    <title>어쩌다 제주</title>
+    <title>JAJIMA</title>
 
-    <!--CSS styles
+    <!--CSS styles-->
     <link rel="stylesheet" media="all" href="../css/bootstrap.css" />
     <link rel="stylesheet" media="all" href="../css/animate.css" />
     <link rel="stylesheet" media="all" href="../css/font-awesome.css" />
@@ -29,10 +29,10 @@
     <link rel="stylesheet" media="all" href="../css/datepicker.css" />
     <link rel="stylesheet" media="all" href="../css/theme.css" />
 
-    Google fonts
+    <!--Google fonts-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,500&amp;subset=latin-ext" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700&amp;subset=latin-ext" rel="stylesheet">
-		-->
+
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -73,6 +73,9 @@
 					</li>
 					<li>
 						<input type="password" name="" placeholder="비밀번호 확인" required>
+					</li>
+					<li>
+						<input type="text" name="school" placeholder="소속 / 학교" required>
 					</li>
 				</ul>
 				<div class="login_bottom">

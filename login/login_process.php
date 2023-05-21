@@ -1,6 +1,6 @@
 <?php
 	session_start(); 
-	$connect = mysqli_connect("localhost","root","","ajdb"); 
+	$connect = mysqli_connect("localhost","root","3220","ajdb"); 
 	$id = $_POST['id']; 
 	$pass = $_POST['pw'];
 	$sql = "SELECT * FROM user WHERE user_id = '$id' AND user_pw = '$pass'"; 
@@ -8,7 +8,7 @@
 	$data = mysqli_fetch_array($result);
 	if($data){
 		$_SESSION['user_id'] = $data['user_id'];
-		echo "<script>location.href='aj/index.php';</script>";
+		header('Location: ../index.php');
 	}else{
 ?>	
 		<script>

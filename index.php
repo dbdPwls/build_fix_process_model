@@ -1,30 +1,24 @@
 <?php
-	session_start();
-	if(!isset($_SESSION['user_id'])) {
-    	header('Location: login/login.php');
-//	header('Location: ./index.php');
+    session_start();
+    if(!isset($_SESSION["user_id"])){
+?>
+        <script>
+            alert("로그인 후 이용해주세요.");
+            location.href='./login/login.php';
+        </script>
+<?php
     }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
 	<title>어쩌다 제주</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+   <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
 </head>
 <body>
-	<?php 
-	if(isset($_SESSION['user_id'])){ ?>
-		<a href="login/logout.php">	로그인이 되었습니다. 로그아웃</a>
-	<?php
-	}
-	else{
-	?>
-		<a href="login/login.php">로그인</a>
-	<?php
-	}
-	?>
+	<p><?=$_SESSION['user_id']?>님 환영합니다.</p>
+  <a href="./login/logout.php">로그아웃</a>
 </body>
 </html>
-
-
