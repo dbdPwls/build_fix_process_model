@@ -24,8 +24,8 @@
 						<input type="submit" name="" value="로그인" class="login_btn">
 					</li>
 					<li>
-						<p><a href="#">회원가입</a></p>
-						<p><a href="#">아이디 찾기</a> | <a href="#">비밀번호</a></p>
+						<p><a href="./join.php">회원가입</a></p>
+						<p><a href="./find_id.php">아이디 찾기</a> | <a href="./find_pw.php">비밀번호</a></p>
 					</li>
 				</ul>
 				<i><span></span><p>SNS 간편 로그인</p></i>

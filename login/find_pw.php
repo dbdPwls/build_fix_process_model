@@ -17,7 +17,7 @@
     <link rel="icon" href="favicon.ico">
 
     <!--Title-->
-    <title>JAJIMA</title>
+    <title>어쩌다 제주</title>
 
     <!--CSS styles-->
     <link rel="stylesheet" media="all" href="../css/bootstrap.css" />
